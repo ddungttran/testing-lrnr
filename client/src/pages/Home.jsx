@@ -1,5 +1,6 @@
 // Importing Card components for Home page card below "Begin Journey" button
 import Card from "../components/Card";
+import React from "react";
 
 export default function Home() {
   return (
